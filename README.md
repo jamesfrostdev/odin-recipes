@@ -1,0 +1,1 @@
+This is a basic recipe website as part of The Odin Project cirriculum.
