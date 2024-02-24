@@ -1,0 +1,43 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    background-color: grey;
+}
+
+.title {
+    font-size: 50px;
+    color: navy;
+}
+
+.subtitle {
+    font-size: 30px;
+}
+
+.subheader {
+    font-size: 20px;
+    color: darkblue;
+}
+
+.item {
+    font-size: 16px;
+}
+
+.option {
+    color: black;
+    font-size: 22px;
+}
+
+a:link {
+    color: black;
+}
+
+a:visited {
+    color: darkslateblue;
+}
+
+a:hover {
+    color: white;    
+}
+
+a:active {
+    color: navy;
+}
